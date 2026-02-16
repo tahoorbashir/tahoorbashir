@@ -9,9 +9,7 @@ Self-taught, started coding early, currently shipping real-world projects 🚀
 
 <p align="left">
 🔗 <strong>GitHub</strong>: https://github.com/tahoorbashir<br>
-🔗 <strong>LinkedIn</strong>: https://linkedin.com/in/YOUR-LINKEDIN<br>
-📍 <strong>Location</strong>: India
-</p>
+
 
 <p align="left">
 🧠 Fun fact: I’m 17 and already obsessed with clean code, streaming tech & shipping projects.
